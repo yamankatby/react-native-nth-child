@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github/yamankatby/react-native-nth-child",
+  "repository": "https://github.com/yamankatby/react-native-nth-child",
   "author": "Yaman KATBY <me@yamankatby.com> (https://yamankatby.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github/yamankatby/react-native-nth-child/issues"
+    "url": "https://github.com/yamankatby/react-native-nth-child/issues"
   },
-  "homepage": "https://github/yamankatby/react-native-nth-child#readme",
+  "homepage": "https://github.com/yamankatby/react-native-nth-child#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
